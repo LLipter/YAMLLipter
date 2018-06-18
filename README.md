@@ -1,7 +1,7 @@
 #YAMLLipter
 ---
 YAMLLipter is a simple YAMLite parser.
-It can valide a YAMLite file or parse a well-formatted YAMLite file to jaon foramt.
+It can valide a YAMLite file or parse a well-formatted YAMLite file to json foramt.
 
 #Usage
 ---
